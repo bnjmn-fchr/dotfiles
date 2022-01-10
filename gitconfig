@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = benjamin.foucher@gmail.com
+	name = Benjamin Foucher
